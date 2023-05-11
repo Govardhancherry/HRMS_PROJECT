@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Application opened]]>
+    </line>
+    <line>
+      <![CDATA[login completed]]>
+    </line>
+    <line>
+      <![CDATA[logout completed]]>
+    </line>
+    <line>
+      <![CDATA[application closed]]>
+    </line>
+    <line>
+      <![CDATA[Application opened]]>
+    </line>
+    <line>
+      <![CDATA[login completed]]>
+    </line>
+    <line>
+      <![CDATA[save emp details]]>
+    </line>
+    <line>
+      <![CDATA[logout completed]]>
+    </line>
+    <line>
+      <![CDATA[application closed]]>
+    </line>
+    <line>
+      <![CDATA[Application opened]]>
+    </line>
+    <line>
+      <![CDATA[login completed]]>
+    </line>
+    <line>
+      <![CDATA[save emp details]]>
+    </line>
+    <line>
+      <![CDATA[Back btn excuted]]>
+    </line>
+    <line>
+      <![CDATA[logout completed]]>
+    </line>
+    <line>
+      <![CDATA[application closed]]>
+    </line>
+    <line>
+      <![CDATA[Application opened]]>
+    </line>
+    <line>
+      <![CDATA[login completed]]>
+    </line>
+    <line>
+      <![CDATA[delete btn excuted]]>
+    </line>
+    <line>
+      <![CDATA[logout completed]]>
+    </line>
+    <line>
+      <![CDATA[application closed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-05-11T11:08:58Z" name="Suite1" finished-at="2023-05-11T11:11:02Z" duration-ms="123674">
+    <groups>
+    </groups>
+    <test started-at="2023-05-11T11:08:58Z" name="Nopackage" finished-at="2023-05-11T11:11:02Z" duration-ms="123674">
+      <class name="com.hrms.testscript.testng.TC_002_WD_TNG">
+        <test-method signature="tc001()[pri:0, instance:com.hrms.testscript.testng.TC_002_WD_TNG@7098b907]" started-at="2023-05-11T16:38:58Z" name="tc001" finished-at="2023-05-11T16:39:16Z" duration-ms="18364" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application opened]]>
+            </line>
+            <line>
+              <![CDATA[login completed]]>
+            </line>
+            <line>
+              <![CDATA[logout completed]]>
+            </line>
+            <line>
+              <![CDATA[application closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method signature="tc002()[pri:0, instance:com.hrms.testscript.testng.TC_002_WD_TNG@7098b907]" started-at="2023-05-11T16:39:16Z" name="tc002" finished-at="2023-05-11T16:39:44Z" duration-ms="27812" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application opened]]>
+            </line>
+            <line>
+              <![CDATA[login completed]]>
+            </line>
+            <line>
+              <![CDATA[save emp details]]>
+            </line>
+            <line>
+              <![CDATA[logout completed]]>
+            </line>
+            <line>
+              <![CDATA[application closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc002 -->
+        <test-method signature="tc003()[pri:0, instance:com.hrms.testscript.testng.TC_002_WD_TNG@7098b907]" started-at="2023-05-11T16:39:44Z" name="tc003" finished-at="2023-05-11T16:40:30Z" duration-ms="45984" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application opened]]>
+            </line>
+            <line>
+              <![CDATA[login completed]]>
+            </line>
+            <line>
+              <![CDATA[save emp details]]>
+            </line>
+            <line>
+              <![CDATA[Back btn excuted]]>
+            </line>
+            <line>
+              <![CDATA[logout completed]]>
+            </line>
+            <line>
+              <![CDATA[application closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc003 -->
+        <test-method signature="tc004()[pri:0, instance:com.hrms.testscript.testng.TC_002_WD_TNG@7098b907]" started-at="2023-05-11T16:40:30Z" name="tc004" finished-at="2023-05-11T16:41:02Z" duration-ms="31506" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application opened]]>
+            </line>
+            <line>
+              <![CDATA[login completed]]>
+            </line>
+            <line>
+              <![CDATA[delete btn excuted]]>
+            </line>
+            <line>
+              <![CDATA[logout completed]]>
+            </line>
+            <line>
+              <![CDATA[application closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc004 -->
+      </class> <!-- com.hrms.testscript.testng.TC_002_WD_TNG -->
+    </test> <!-- Nopackage -->
+  </suite> <!-- Suite1 -->
+</testng-results>

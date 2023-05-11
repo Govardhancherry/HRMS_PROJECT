@@ -1,0 +1,9 @@
+<suite name="Suite1" verbose="1" >
+  <test name="Nopackage" >
+    <classes>
+       <class name="com.hrms.testscript_log4j_testng.TC001_Testng_WB_Log4j_FW" />
+    </classes>
+  </test>
+ 
+
+</suite>

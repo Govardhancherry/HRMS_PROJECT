@@ -1,0 +1,18 @@
+package com.hrms.testscripts;
+
+import com.hrms.lib.General;
+
+public class TC001_LoginLogout {
+	public static void main(String[] args) throws Exception {
+		 General obj = new General(); 
+		 obj.openapplication(); 
+		 obj.login();
+		 obj.logout(); 
+		obj.closeapplication();
+		
+		
+		
+	}
+	
+
+}
