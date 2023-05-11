@@ -62,12 +62,12 @@
       <![CDATA[application closed]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-05-11T11:08:58Z" name="Suite1" finished-at="2023-05-11T11:11:02Z" duration-ms="123674">
+  <suite started-at="2023-05-11T12:08:58Z" name="Suite1" finished-at="2023-05-11T12:11:02Z" duration-ms="124137">
     <groups>
     </groups>
-    <test started-at="2023-05-11T11:08:58Z" name="Nopackage" finished-at="2023-05-11T11:11:02Z" duration-ms="123674">
+    <test started-at="2023-05-11T12:08:58Z" name="Nopackage" finished-at="2023-05-11T12:11:02Z" duration-ms="124137">
       <class name="com.hrms.testscript.testng.TC_002_WD_TNG">
-        <test-method signature="tc001()[pri:0, instance:com.hrms.testscript.testng.TC_002_WD_TNG@7098b907]" started-at="2023-05-11T16:38:58Z" name="tc001" finished-at="2023-05-11T16:39:16Z" duration-ms="18364" status="PASS">
+        <test-method signature="tc001()[pri:0, instance:com.hrms.testscript.testng.TC_002_WD_TNG@7098b907]" started-at="2023-05-11T17:38:58Z" name="tc001" finished-at="2023-05-11T17:39:16Z" duration-ms="17602" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Application opened]]>
@@ -83,7 +83,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- tc001 -->
-        <test-method signature="tc002()[pri:0, instance:com.hrms.testscript.testng.TC_002_WD_TNG@7098b907]" started-at="2023-05-11T16:39:16Z" name="tc002" finished-at="2023-05-11T16:39:44Z" duration-ms="27812" status="PASS">
+        <test-method signature="tc002()[pri:0, instance:com.hrms.testscript.testng.TC_002_WD_TNG@7098b907]" started-at="2023-05-11T17:39:16Z" name="tc002" finished-at="2023-05-11T17:39:43Z" duration-ms="27393" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Application opened]]>
@@ -102,7 +102,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- tc002 -->
-        <test-method signature="tc003()[pri:0, instance:com.hrms.testscript.testng.TC_002_WD_TNG@7098b907]" started-at="2023-05-11T16:39:44Z" name="tc003" finished-at="2023-05-11T16:40:30Z" duration-ms="45984" status="PASS">
+        <test-method signature="tc003()[pri:0, instance:com.hrms.testscript.testng.TC_002_WD_TNG@7098b907]" started-at="2023-05-11T17:39:43Z" name="tc003" finished-at="2023-05-11T17:40:30Z" duration-ms="47496" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Application opened]]>
@@ -124,7 +124,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- tc003 -->
-        <test-method signature="tc004()[pri:0, instance:com.hrms.testscript.testng.TC_002_WD_TNG@7098b907]" started-at="2023-05-11T16:40:30Z" name="tc004" finished-at="2023-05-11T16:41:02Z" duration-ms="31506" status="PASS">
+        <test-method signature="tc004()[pri:0, instance:com.hrms.testscript.testng.TC_002_WD_TNG@7098b907]" started-at="2023-05-11T17:40:30Z" name="tc004" finished-at="2023-05-11T17:41:02Z" duration-ms="31636" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Application opened]]>
